@@ -1,5 +1,5 @@
 ---
-title: "Human Face Image Generation from Textual Descriptions"
+title: "Human Face Image Generation from Textual Descriptions -April 2020"
 excerpt: "Developed a variant of the Generative Adversarial Network (GAN), Tedi-GAN, for generating human faces from textual descriptions. An interactive website allows users to see high-definition images generated from their descriptions.<br/><img src='/images/human-face-gan.png' width='600'>"
 collection: portfolio
 ---
