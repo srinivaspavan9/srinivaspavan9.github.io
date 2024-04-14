@@ -1,5 +1,5 @@
 ---
-title: "AI Chatbot for Resume Tailoring and Career Guidance -Feb 2024"
+title: "AI Chatbot for Resume Tailoring and Career Guidance"
 excerpt: "Devised an advanced AI chatbot tailored to assist users in resume optimization and career advice, featuring a ChatGPT-like interface and optimized performance.<br/><img src='/images/ai-chatbot.png' width='600'>"
 collection: portfolio
 ---

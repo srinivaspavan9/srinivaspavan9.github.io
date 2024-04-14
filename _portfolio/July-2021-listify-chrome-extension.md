@@ -1,5 +1,5 @@
 ---
-title: "Listify – Time & Productivity Management Chrome Web Application -July 2021"
+title: "Listify – Time & Productivity Management Chrome Web Application"
 excerpt: "Built a task-management Chrome Extension tailored for professionals and students, featuring calendar integration and customizable notifications.<br/><img src='/images/listify-chrome-extension.png' width='600'>"
 collection: portfolio
 ---
