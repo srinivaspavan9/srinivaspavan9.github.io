@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Srinivas Pavan](/images/srinivaspavan_profile.png){: .align-right width="300px"}
+![Intro Pic](/images/about_intro.jpeg){: .align-right width="300px"}
 🎓 **Educational Journey:** I'm a Master's student in Computer Science at the University of Florida. Just like a superhero fine-tuning his powers, I'm honing my coding skills to save the digital world, one bug at a time!
 
 🌐 **Tech Wizardry:** My tech expertise spans from crafting elegant code to deploying robust solutions. I bring clarity and simplicity to complex systems—because even in the tech world, simplicity is the ultimate sophistication!
