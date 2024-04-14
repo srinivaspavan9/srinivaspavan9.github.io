@@ -1,6 +1,6 @@
 ---
 title: "SocialClub App: Community Engagement and Local Area Discovery App"
-excerpt: "SocialClub is an app that redefines community engagement through a 3D mapping system, real-time interactions, and group creation. <br/><img src='/images/socialclub-1.png'>"
+excerpt: "SocialClub is an app that redefines community engagement through a 3D mapping system, real-time interactions, and group creation. <br/><img src='/images/socialclub-1.png' width='600'>"
 collection: portfolio
 ---
 
